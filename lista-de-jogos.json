@@ -1,0 +1,172 @@
+[
+  {
+    "teams": {
+      "home": {
+        "name": "São Paulo",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+        "score": 1
+      },
+      "away": {
+        "name": "Figueirense",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/figueirense_60x60.png",
+        "score": 0
+      }
+    },
+    "date": "2016-01-28",
+    "hour": "15:40",
+    "label": "sao-fig"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Avaí",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/avai_60x60_.png",
+        "score": 2
+      },
+      "away": {
+        "name": "Palmeiras",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+        "score": 1
+      }
+    },
+    "date": "2016-09-13",
+    "hour": "06:31",
+    "label": "ava-pal"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Botafogo",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+        "score": 2
+      },
+      "away": {
+        "name": "Coritiba",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/coritiba_60x60.png",
+        "score": 2
+      }
+    },
+    "date": "2016-09-14",
+    "hour": "07:20",
+    "label": "bot-cfc"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Cruzeiro",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+        "score": 0
+      },
+      "away": {
+        "name": "Vasco",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/vasco_60x60.png",
+        "score": 1
+      }
+    },
+    "date": "2016-12-03",
+    "hour": "02:47",
+    "label": "cru-vas"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Grêmio",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+        "score": 2
+      },
+      "away": {
+        "name": "Fluminense",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2015/05/05/fluminense-escudo-65x65.png",
+        "score": 1
+      }
+    },
+    "date": "2016-08-25",
+    "hour": "09:11",
+    "label": "gre-flu"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Atlético Paranaense",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_65.png",
+        "score": 1
+      },
+      "away": {
+        "name": "Internacional",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/internacional_60x60.png",
+        "score": 1
+      }
+    },
+    "date": "2016-07-02",
+    "hour": "12:54",
+    "label": "cap-int"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Atlético Mineiro",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/atletico_mg_60x60.png",
+        "score": 0
+      },
+      "away": {
+        "name": "Chapecoense",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2015/05/06/chapecoense_60x60.png",
+        "score": 0
+      }
+    },
+    "date": "2016-10-25",
+    "hour": "22:56",
+    "label": "cam-cha"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Corinthians",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+        "score": 1
+      },
+      "away": {
+        "name": "Sport",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/09/15/sport_60x60.png",
+        "score": 1
+      }
+    },
+    "date": "2016-11-15",
+    "hour": "20:31",
+    "label": "cor-spo"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Flamengo",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/flamengo_60x60.png",
+        "score": 1
+      },
+      "away": {
+        "name": "Ponte Preta",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/ponte_preta_60x60.png",
+        "score": 1
+      }
+    },
+    "date": "2016-05-03",
+    "hour": "05:26",
+    "label": "fla-pon"
+  },
+  {
+    "teams": {
+      "home": {
+        "name": "Goiás",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/goias_60x60.png",
+        "score": 0
+      },
+      "away": {
+        "name": "Santos",
+        "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+        "score": 2
+      }
+    },
+    "date": "2016-05-07",
+    "hour": "13:27",
+    "label": "goi-san"
+  }
+]

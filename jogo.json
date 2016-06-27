@@ -1,0 +1,44 @@
+{
+  "teams": {
+    "home": {
+      "name": "São Paulo",
+      "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "score": 1
+    },
+    "away": {
+      "name": "Figueirense",
+      "badge": "http://s.glbimg.com/es/sde/f/equipes/2014/04/14/figueirense_60x60.png",
+      "score": 0
+    }
+  },
+  "date": "2016-01-28",
+  "hour": "15:40",
+  "location": "Morumbi",
+  "ticker": [
+    {
+      "description": "Jogador tá fazendo cera",
+      "time": 5,
+      "team": "home"
+    },
+    {
+      "description": "Falta perigosíssima!",
+      "time": 23,
+      "team": "away"
+    },
+    {
+      "description": "Cruzamento na área",
+      "time": 41,
+      "team": "away"
+    },
+    {
+      "description": "Lateral",
+      "time": 66,
+      "team": "home"
+    },
+    {
+      "description": "Golllll!",
+      "time": 69,
+      "team": "home"
+    }
+  ]
+}
